@@ -97,6 +97,7 @@ https://www.hackerrank.com/challenges/
 ### Graphs and Trees
 
 | Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
 |Check if BST|[Challenge](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.java)|-
 
 
