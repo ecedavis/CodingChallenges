@@ -15,10 +15,14 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |---|---|---|---|---
 
 
+
 #### Stacks and Queues
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
+
+
+
 
 #### Sorting
 
@@ -26,10 +30,13 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |---|---|---|---|---
 
 
+
+
 #### Trees and Graphs
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
+
 
 
 
@@ -45,12 +52,15 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 |---|---|---|---|---
 
 
+
+
 ### Hackerrank Random
 
 https://www.hackerrank.com/challenges/
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
+
 
 
 
