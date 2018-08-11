@@ -80,7 +80,7 @@ https://www.hackerrank.com/challenges/
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-|Bubble Sort (Arrays) | [Challenge](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | |[Challenge](https://github.com/ecedavis/CodingChallenges/blob/master/bubblesort.java)||
+|Bubble Sort (Arrays) | [Challenge](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | |[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/bubblesort.java)||
 
 
 
