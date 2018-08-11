@@ -11,7 +11,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 
 
 
-## 10 Days of Statistics
+## 10 Days of Statistics - Hackerrank.com
 https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 | Challenge  | Description  |  Python | Java | C++
@@ -25,7 +25,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 
 
-## 30 Days of Code
+## 30 Days of Code - Hackerrank.com
 https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 | Challenge  | Description  |  Python | Java | C++
