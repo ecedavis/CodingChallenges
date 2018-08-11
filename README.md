@@ -3,7 +3,7 @@ Here are my solutions to the common coding challenges.
 
 The solutions in this repo are not meant to be the best ones. You may find better solutions out there. Bear in mind that in practice optimal solution depends on various parameters such as workset data, environment, constraints etc.
 
-## Codility.com Challenges
+## Codility.com 
 | Challenge  | Description  |  Python | Java | C++ |
 |---|---|---|---|---|
 |Find maximum binary gap substring | [Challenge](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | - | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) | - |
