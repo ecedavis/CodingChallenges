@@ -1,4 +1,4 @@
-//https://github.com/ecedavis/CodingChallenges/blob/master/stats_day01_interquartile.py
+//https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 import statistics as st
 
 def listToInt (list):
