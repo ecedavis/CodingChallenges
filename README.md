@@ -52,13 +52,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 
 
-## Hackerrank Random
-
-https://www.hackerrank.com/challenges/
-
-| Challenge  | Description  |  Python | Java | C++
-|---|---|---|---|---
-|Tries:Contacts|[Challenge](https://www.hackerrank.com/challenges/ctci-contacts/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/triesContacts.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/triesContacts.java)|
+## More Hackerrank 
 
 
 #### Linked Lists
@@ -94,13 +88,19 @@ https://www.hackerrank.com/challenges/
 
 
 
-### Graphs and Trees
+#### Graphs and Trees
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
 |Check if BST|[Challenge](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.java)|-
 
+#### Random
 
+https://www.hackerrank.com/challenges/
+
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+|Tries:Contacts|[Challenge](https://www.hackerrank.com/challenges/ctci-contacts/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/triesContacts.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/triesContacts.java)|
 
 
 
