@@ -1,5 +1,5 @@
 # Coding challenges
-Here are my solutions to the common coding challenges. Easily compile code via browser at [tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm)
+Here are my solutions to the common coding challenges. You can easily test my code via browser at [tutorialspoint.com](https://www.tutorialspoint.com/codingground.htm)
 
 The solutions in this repo are not meant to be the best ones. You may find better solutions out there. Bear in mind that in practice optimal solution depends on various parameters such as workset data, environment, constraints etc.
 
