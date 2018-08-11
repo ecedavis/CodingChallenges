@@ -30,7 +30,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-|Day 00: Hello, World.|[Challenge](https://www.hackerrank.com/challenges/30-hello-world/problem)|---|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/day01.py)|-
+|Day 00: Hello, World.|[Challenge](https://www.hackerrank.com/challenges/30-hello-world/problem)||[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/day01.py)|
 |Day 11: 2D Arrays|[Challenge](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/day11.py)||
 |Day 12: Inheritance|[Challenge](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/day12.py)||
 |Day 13: Abstract Classes|[Challenge](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/day13.py)||
