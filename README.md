@@ -8,10 +8,11 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 |Find maximum binary gap substring | [Challenge](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | - | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) | - |
 
 
+
 ### Linked Lists
 
 | Challenge  | Description  |  Python | Java | C++ |
-|---|---|---|---|---|
+|-|-|-|-|-|
 
 
 #### Stacks and Queues
