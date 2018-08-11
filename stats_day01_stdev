@@ -1,0 +1,18 @@
+//https://github.com/ecedavis/CodingChallenges/blob/master/stats_day01_interquartile.py
+import statistics as st
+
+def listToInt (list):
+    list = list.split(" ")
+    for i in range(len(list)):
+        list[i] = int(list[i])
+    return list
+
+n = int(input())
+x = input()
+x = listToInt(x)
+sumdevsq = 0
+mean = sum(x)/len(x)
+for i in range(n):
+    sumdevsq += (mean-x[i])**2
+sd = (sumdevsq/n)**.5
+print (sd)
