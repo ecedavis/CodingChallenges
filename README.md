@@ -12,7 +12,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 ### Linked Lists
 
 | Challenge  | Description  |  Python | Java | C++ |
-|-|-|-|-|-|
+|||||
 
 
 #### Stacks and Queues
