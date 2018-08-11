@@ -6,8 +6,8 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 ## Coding Interview Practice
 | Challenge  | Python | Java | C++ |
 |---|---|---|---|
-|Find maximum binary gap substring  | - | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) | - |
-|Missing Natural Number| - |[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/missinginteger.java)
+|Find maximum binary gap substring  |  | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) |  |
+|Missing Natural Number|  |[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/missinginteger.java)
 
 
 
@@ -92,7 +92,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-|Check if BST|[Challenge](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.java)|-
+|Check if BST|[Challenge](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.py)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/isBST.java)|
 
 #### Random
 
