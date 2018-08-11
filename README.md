@@ -20,7 +20,7 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 |Day 01: Quartiles| [Challenge](https://www.hackerrank.com/challenges/s10-quartiles/submissions/code/80614354)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/stats_day01.py)||
 |Day 01: Interquartile Range|[Challenge](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/stats_day01_interquartile.py)||
 |Day 01: Standard Deviation|[Challenge](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/stats_day01_stdev)||
-|Day 04: Binomial Distribution|[Challenge](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)|Solution](https://github.com/ecedavis/CodingChallenges/blob/master/stats_day04.py)||
+|Day 04: Binomial Distribution|[Challenge](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)|[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/stats_day04.py)||
 
 
 
