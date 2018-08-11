@@ -3,13 +3,33 @@ Here are my solutions to the common coding challenges.
 
 The solutions in this repo are not meant to be the best ones. You may find better solutions out there. Bear in mind that in practice optimal solution depends on various parameters such as workset data, environment, constraints etc.
 
+## Codility.com Challenges
 | Challenge  | Description  |  Python | Java | C++ |
 |---|---|---|---|---|
 |Find maximum binary gap substring | [Challenge](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | - | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) | - |
 
 
 
-### Linked Lists
+
+## 10 Days of Statistics
+https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+
+
+
+
+## Hackerrank Random
+
+https://www.hackerrank.com/challenges/
+
+| Challenge  | Description  |  Python | Java | C++
+|---|---|---|---|---
+
+
+
+#### Linked Lists
 
 | Challenge  | Description  |  Python | Java | C++ |
 |---|---|---|---|---
@@ -44,23 +64,6 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 
 | Challenge  | Description  |  Python | Java | C++
 |---|---|---|---|---
-
-### 10 Days of Statistics
-https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
-
-| Challenge  | Description  |  Python | Java | C++
-|---|---|---|---|---
-
-
-
-
-### Hackerrank Random
-
-https://www.hackerrank.com/challenges/
-
-| Challenge  | Description  |  Python | Java | C++
-|---|---|---|---|---
-
 
 
 
