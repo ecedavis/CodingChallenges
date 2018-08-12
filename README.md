@@ -6,10 +6,11 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 ## Coding Interview Practice
 | Challenge  | Python | Java | C++ |
 |---|---|---|---|
+|Count Integers Divisible by K| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/countdiv.java)
 |Missing Natural Number| Intermediate |[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/missinginteger.java)
+|Max Counter| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/counter-problem.java)
 |Find Maximum Binary Gap Substring  | Easy | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/BinaryGap.java) 
 |Array Cyclic Rotation| Very Easy | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/array-rotation.java) 
-|Max Counter| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/counter-problem.java)
 
 
 
