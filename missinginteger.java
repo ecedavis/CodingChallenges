@@ -1,3 +1,7 @@
+//Solved by Mark Davis on 08/11/2018
+
+// worst case time complexity: O(N) to O(N * log(N))
+// worst-case space complexity is O(N)
 public class Solution {
     public static void main(String args[])
     {
@@ -50,6 +54,5 @@ public class Solution {
             return max;
         }
         return min;
-        
     }
 }
