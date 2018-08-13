@@ -6,6 +6,7 @@ The solutions in this repo are not meant to be the best ones. You may find bette
 ## Coding Interview Practice
 | Challenge  | Python | Java | C++ |
 |---|---|---|---|
+|Minimum Value in Subsequence| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/min_value_in_sequence.java)
 |Count Integers Divisible by K| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/countdiv.java)
 |Missing Natural Number| Intermediate |[Solution](https://github.com/ecedavis/CodingChallenges/blob/master/missinginteger.java)
 |Max Counter| Intermediate | [Solution](https://github.com/ecedavis/CodingChallenges/blob/master/counter-problem.java)
