@@ -110,6 +110,6 @@ https://www.hackerrank.com/challenges/
 
 https://github.com/ecedavis
 
-http://linkedin.com/ecedavis
+http://linkedin.com/in/ecedavis
 
 Code reviews and comments, even new challenges are very welcomed.
